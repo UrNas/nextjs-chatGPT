@@ -10,8 +10,9 @@ npx create-next-app --example with-tailwindcss with-tailwindcss-app
 
 ---
 
-# ChatGpt queistions
+# ChatGPT Questions
 
-1- what is the main components for todos web app created with Next.js and Tailwind Css
-2- create a Todo component and style it by tailwind css ?
-3- create TodoList component ?
+1. what is the main component to create todos web app using Next.js and tailwind css ?
+2. create Todo component and add complete button and delete button to it and style it with tailwind css ?
+3. create TodoList component and onComplete and onDelete to it and style it with tailwind css ?
+4. write an example for onComplete and onDelete functions ?
